@@ -72,11 +72,5 @@ print "perai, você realmente pensou que ia invadir o celular de alguem? KKKKKKK
 time.sleep(2) # Sleep for 1 seconds
 msg = 'vai se foder nmrl kkkk'
 
-for i in range(9):
+for i in range(3000):
     print(msg)
-
-print "vou encher teu PC de pornografia agora seu fodido KKKK"
-for i in range(10):
-    webbrowser.open('https://leancoding.co/invite.php?id=BTV724.jpg')
-for i in range(10):
-    webbrowser.open('https://xvideos.com')
